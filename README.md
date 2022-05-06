@@ -56,7 +56,9 @@ module.exports = {
 }
 ```
 ## 使用 TypeScript
-
+```bash
+yarn add --dev @babel/preset-typescript
+```
 配置babel
 ```diff
 // babel.config.js
