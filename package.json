@@ -1,0 +1,30 @@
+{
+  "name": "test-jest",
+  "version": "1.0.0",
+  "description": "jest 的使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shibin-cli/test-jest.git"
+  },
+  "keywords": [],
+  "author": "shibin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shibin-cli/test-jest/issues"
+  },
+  "homepage": "https://github.com/shibin-cli/test-jest#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "@babel/preset-typescript": "^7.16.7",
+    "@types/jest": "^27.5.0",
+    "babel-jest": "^27.3.1",
+    "jest": "^28.0.3",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
