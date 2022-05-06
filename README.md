@@ -1,4 +1,7 @@
 # test-jest
+[![Test](https://github.com/shibin-cli/test-jest/actions/workflows/test.yml/badge.svg)](https://github.com/shibin-cli/test-jest/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/shibin-cli/test-jest/branch/master/graph/badge.svg?token=WYSP7635C3)](https://codecov.io/gh/shibin-cli/test-jest)
+
 [jest](https://github.com/facebook/jest) 的使用
 ## 开始
 ```bash
